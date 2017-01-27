@@ -10,6 +10,8 @@ Team conventions: Allman notation, markdown for changelog
 
 Team members be sure to update change log with any contributions made.
 
+Created develop branch.
+
     
 ## Updated Components
 
